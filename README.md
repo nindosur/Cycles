@@ -6,4 +6,4 @@
 ![Image alt](https://github.com/{nindosur}/{task8}/raw/{main}/{img}/image.png)
 
 
-<image src="/images/image.jpg" alt="figure">
+<image src="/img/image.jpg" alt="figure">
